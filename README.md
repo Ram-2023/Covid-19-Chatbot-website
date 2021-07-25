@@ -8,7 +8,17 @@ In previous <a href="https://github.com/Ram-2023/Covid-19-Chatbot">Covid 19 Chat
 <li>CSS</li>
 <li>PHP</li>
 <li>MYSQL</li>
+
 # Website look
 <img src="website.PNG">
 
+# Website demo
+https://youtu.be/j5hOvx7FyQM
+
+# Resources referred
+https://www.w3schools.com/sql/default.asp
+
+https://www.w3schools.com/php/default.asp
+
+https://youtu.be/F373XvBwoqY
 
